@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanad
 
-<!--
-**Sanad-Alkhatib/sanad-alkhatib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🤖 AI Engineer
+- 👁️ Computer Vision & Data Analysis
+- 🔍 Interested in Deep Learning & ML Systems
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python, NumPy, Pandas
+- Machine Learning
+- Deep Learning (CNN, ResNet)
+- OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 📈 Stock Price Prediction
+
+## 📊 Tools
+- Git & GitHub
+- Docker (Basics)
+- Linux & WSL
+
+## 📫 Contact
+- Email: sanadalkhatib10@gmail.com
