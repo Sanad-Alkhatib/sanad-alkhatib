@@ -16,7 +16,6 @@
 
 ## 📊 Tools
 - Git & GitHub
-- Docker (Basics)
 - Linux & WSL
 
 ## 📫 Contact
