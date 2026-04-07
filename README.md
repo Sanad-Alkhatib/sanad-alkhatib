@@ -13,6 +13,7 @@
 
 ## 🔥 Projects
 - Pumpkin-Price-Classification-using-Decision-Tree
+- Pumpkin-Price-Classification-using-Logistic-Regression
 
 ## 📊 Tools
 - Git & GitHub
