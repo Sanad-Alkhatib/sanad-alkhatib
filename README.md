@@ -12,7 +12,7 @@
 - OpenCV
 
 ## 🔥 Projects
-- 📈 Stock Price Prediction
+- Pumpkin-Price-Classification-using-Decision-Tree
 
 ## 📊 Tools
 - Git & GitHub
