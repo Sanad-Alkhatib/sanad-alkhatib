@@ -14,6 +14,7 @@
 ## 🔥 Projects
 - Pumpkin-Price-Classification-using-Decision-Tree
 - Pumpkin-Price-Classification-using-Logistic-Regression
+- Pumpkin Price Classification using Multiple Machine Learning Models
 
 ## 📊 Tools
 - Git & GitHub
